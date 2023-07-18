@@ -17,7 +17,7 @@ const Testimonial = () => {
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, natus? Vel architecto ipsum a adipisci eos, dolore molestias quas? A!
             </p>
-            <div className='testimonial-stars-container'>
+            <div className='testimonials-stars-container'>
                 <AiFillStar/>
                 <AiFillStar/>
                 <AiFillStar/>
